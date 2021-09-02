@@ -16,4 +16,5 @@ system/expressionengine/config/config.php
 sized/
 thumbs/
 _thumbs/
+/node_modules/
 */expressionengine/cache/*
